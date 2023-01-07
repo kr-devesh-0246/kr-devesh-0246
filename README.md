@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🐸 Hi, let's eat some Frog!
+- 🐸 Hi, let's eat some Frogs!
 - 🔭 I’m currently working on my Problem solving skills and soft skills
 - 🌱 I’m currently learning to solve leetcode problems
 - 👯 I’m looking to collaborate on any project related to WebDev, Hackathons, etc
