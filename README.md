@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my Problem solving skills and soft skills
 - 🌱 I’m currently learning to solve some leetcode problems
 - 👯 I’m looking to collaborate on any project related to WebDev, Hackathons, etc
-- 📫 How to reach me: devesh2462003@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/devesh-kumar-300105228/
