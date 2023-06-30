@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🐸 Hi, let's eat some Frogs!
-- 🔭 I’m currently working on my Problem solving skills and soft skills
-- 🌱 I’m currently learning to solve some leetcode problems
-- 👯 I’m looking to collaborate on any project related to WebDev, Hackathons, etc
-- 📫 How to reach me: https://www.linkedin.com/in/devesh-kumar-300105228/
+- 🔭 I’m currently working on data structures and algorithm problems
+- 🌱 I’m currently learning Java (J2SE)
+- 👯 I’m looking to collaborate on any project related to Java, Python, etc
+- 📫 How to reach me: https://www.linkedin.com/in/devesh-kumar-300105228/ 
+- 📧 Simply email me: devesh2462003@gmail.com
