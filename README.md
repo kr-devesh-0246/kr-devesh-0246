@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🐸 Hi, let's eat some Frogs!
+<!-- - 🐸 Hi, let's eat some Frogs! -->
 - 🔭 I’m currently working on data structures and algorithm problems
-- 🌱 I’m currently learning Java (J2SE)
-- 👯 I’m looking to collaborate on any project related to Java, Python, etc
-- 📫 How to reach me: https://www.linkedin.com/in/devesh-kumar-300105228/ 
-- 📧 Simply email me: devesh2462003@gmail.com
+- 🌱 I’m currently learning Java Enterprise Edition
+- 👯 I’m looking to collaborate on any project related to Java or Python 
+- 📫 Linkedin: https://www.linkedin.com/in/krdevesh0246/
+- 📧 Mail: devesh2462003@gmail.com
